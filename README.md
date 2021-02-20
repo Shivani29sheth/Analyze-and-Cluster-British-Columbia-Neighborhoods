@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Hello, this is a Coursera Repository for all the assignments in the Data Science Capstone project. To refer to the final graded assignment where I have scraped, compared, and analyzed different negihborhoods in British Columbia, please refer to the 
+Hello, this is a Coursera Repository for all the assignments in the Data Science Capstone project. To refer to the final graded assignment where I have scraped, compared, and analyzed different negihborhoods in British Columbia, please refer to the Final Capstone project report in the 'CapstoneProject_Report.pdf' file and its corresponding Python notebook in the 'FinalCapstoneProject.ipynb' file.
