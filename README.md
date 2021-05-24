@@ -1,2 +1,9 @@
-# Coursera_Capstone
-Hello, this is a Coursera Repository for all the assignments in the Data Science Capstone project. To refer to the final graded assignment where I have scraped, compared, and analyzed different negihborhoods in British Columbia, please refer to the Final Capstone project report in the 'CapstoneProject_Report.pdf' file and its corresponding Python notebook in the 'FinalCapstoneProject.ipynb' file.
+# Analyze-and-Cluster-British-Columbia-Neighborhoods
+
+Hello, this is my project on British Columbia Neighborhood Analysis. For this project, I have scraped, compared, and analyzed different neighborhoods in British Columbia and compared them with the Toronto neighborhoods. 
+
+For the Project Report, please click here: [Report - Analyze-and-Cluster-British-Columbia-Neighborhoods](https://github.com/Shivani29sheth/Analyze-and-Cluster-British-Columbia-Neighborhoods/blob/master/CapstoneProject_Report.pdf) 
+
+For the Project Code, please click here: [Code - Analyze-and-Cluster-British-Columbia-Neighborhoods](https://github.com/Shivani29sheth/Analyze-and-Cluster-British-Columbia-Neighborhoods/blob/master/FinalCapstoneProject.ipynb) 
+
+For the Project Presentation, please click here: [Presentation - Analyze-and-Cluster-British-Columbia-Neighborhoods](https://github.com/Shivani29sheth/Analyze-and-Cluster-British-Columbia-Neighborhoods/blob/master/Capstone%20Project%20Presentation.pdf) 
